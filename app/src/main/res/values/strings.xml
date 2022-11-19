@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">U5_Proyecto6_HorarioClase</string>
+    <string name="horario">HORARIO</string>
+    <string name="lunes">LUNES</string>
+    <string name="martes">MARTES</string>
+    <string name="miercoles">MIÉRCOLES</string>
+    <string name="jueves">JUEVES</string>
+    <string name="viernes">VIERNES</string>
+    <string name="recreo">RECREO</string>
+</resources>

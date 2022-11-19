@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">U5_Proyecto6_HorarioClase</string>
+    <string name="lunes">MONDAY</string>
+    <string name="martes">TUESDAY</string>
+    <string name="miercoles">WEDNESDAY</string>
+    <string name="jueves">THURSDAY</string>
+    <string name="viernes">FRIDAY</string>
+    <string name="recreo">BREAK</string>
+    <string name="horario">TIMETABLE</string>
+</resources>
