@@ -29,7 +29,6 @@ class MainActivity : AppCompatActivity() {
             var textoSGE = binding.txtSGE
             var textoPSP = binding.txtPSP
             var textoEIE = binding.txtEIE
-            //Empieza
             when (view.id) {
                 //Acceso a datos - AD
                  binding.chBoxAD1.id ->
