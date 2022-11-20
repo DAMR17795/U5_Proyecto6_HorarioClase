@@ -7,4 +7,10 @@
     <string name="jueves">JUEVES</string>
     <string name="viernes">VIERNES</string>
     <string name="recreo">RECREO</string>
+    <string name="pmdm" translatable="false">PMDM</string>
+    <string name="psp" translatable="false">PSP</string>
+    <string name="sge" translatable="false">SGE</string>
+    <string name="ad" translatable="false">AD</string>
+    <string name="eie" translatable="false">EIE</string>
+    <string name="di" translatable="false">DI</string>
 </resources>

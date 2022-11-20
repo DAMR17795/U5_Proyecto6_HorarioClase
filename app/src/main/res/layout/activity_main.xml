@@ -132,7 +132,7 @@
                     android:layout_height="match_parent"
                     android:layout_weight="1"
                     android:onClick="metodoClick"
-                    android:text="AD"
+                    android:text="@string/ad"
                     android:textColor="#FFFFFF" />
             </LinearLayout>
 
@@ -148,7 +148,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:onClick="metodoClick"
-                    android:text="AD"
+                    android:text="@string/ad"
                     android:textColor="#FFFFFF" />
             </LinearLayout>
 
@@ -164,7 +164,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:onClick="metodoClick"
-                    android:text="DI"
+                    android:text="@string/di"
                     android:textAlignment="viewStart"
                     android:textColor="#FFFFFF" />
             </LinearLayout>
@@ -181,7 +181,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:onClick="metodoClick"
-                    android:text="DI"
+                    android:text="@string/di"
                     android:textColor="#FFFFFF" />
             </LinearLayout>
 
@@ -197,7 +197,7 @@
                     android:layout_height="match_parent"
                     android:layout_weight="1"
                     android:onClick="metodoClick"
-                    android:text="AD"
+                    android:text="@string/ad"
                     android:textColor="#FFFFFF" />
 
             </LinearLayout>
@@ -221,7 +221,7 @@
                     android:layout_height="match_parent"
                     android:layout_weight="1"
                     android:onClick="metodoClick"
-                    android:text="PMDM"
+                    android:text="@string/pmdm"
                     android:textColor="#FFFFFF" />
             </LinearLayout>
 
@@ -237,7 +237,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:onClick="metodoClick"
-                    android:text="EIE"
+                    android:text="@string/eie"
                     android:textColor="#FFFFFF" />
             </LinearLayout>
 
@@ -253,7 +253,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:onClick="metodoClick"
-                    android:text="SGE"
+                    android:text="@string/sge"
                     android:textAlignment="viewStart"
                     android:textColor="#FFFFFF" />
             </LinearLayout>
@@ -270,7 +270,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:onClick="metodoClick"
-                    android:text="DI"
+                    android:text="@string/di"
                     android:textAlignment="center"
                     android:textColor="#FFFFFF"
                     android:textSize="14sp" />
@@ -288,7 +288,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:onClick="metodoClick"
-                    android:text="AD"
+                    android:text="@string/ad"
                     android:textColor="#FFFFFF" />
 
             </LinearLayout>
@@ -312,7 +312,7 @@
                     android:layout_height="match_parent"
                     android:layout_weight="1"
                     android:onClick="metodoClick"
-                    android:text="PMDM"
+                    android:text="@string/pmdm"
                     android:textColor="#FFFFFF" />
             </LinearLayout>
 
@@ -328,7 +328,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:onClick="metodoClick"
-                    android:text="DI"
+                    android:text="@string/di"
                     android:textColor="#FFFFFF" />
             </LinearLayout>
 
@@ -344,7 +344,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:onClick="metodoClick"
-                    android:text="SGE"
+                    android:text="@string/sge"
                     android:textAlignment="viewStart"
                     android:textColor="#FFFFFF" />
             </LinearLayout>
@@ -361,7 +361,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:onClick="metodoClick"
-                    android:text="PMDM"
+                    android:text="@string/pmdm"
                     android:textAlignment="center"
                     android:textColor="#FFFFFF"
                     android:textSize="14sp" />
@@ -379,7 +379,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:onClick="metodoClick"
-                    android:text="SGE"
+                    android:text="@string/sge"
                     android:textColor="#FFFFFF" />
 
             </LinearLayout>
@@ -418,7 +418,7 @@
                     android:layout_height="match_parent"
                     android:layout_weight="1"
                     android:onClick="metodoClick"
-                    android:text="PSP"
+                    android:text="@string/psp"
                     android:textColor="#FFFFFF" />
             </LinearLayout>
 
@@ -434,7 +434,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:onClick="metodoClick"
-                    android:text="DI"
+                    android:text="@string/di"
                     android:textColor="#FFFFFF" />
             </LinearLayout>
 
@@ -450,7 +450,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:onClick="metodoClick"
-                    android:text="PSP"
+                    android:text="@string/psp"
                     android:textAlignment="viewStart"
                     android:textColor="#FFFFFF" />
             </LinearLayout>
@@ -467,7 +467,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:onClick="metodoClick"
-                    android:text="EIE"
+                    android:text="@string/eie"
                     android:textAlignment="center"
                     android:textColor="#FFFFFF"
                     android:textSize="14sp" />
@@ -485,7 +485,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:onClick="metodoClick"
-                    android:text="SGE"
+                    android:text="@string/sge"
                     android:textColor="#FFFFFF" />
 
             </LinearLayout>
@@ -509,7 +509,7 @@
                     android:layout_height="match_parent"
                     android:layout_weight="1"
                     android:onClick="metodoClick"
-                    android:text="DI"
+                    android:text="@string/di"
                     android:textColor="#FFFFFF" />
             </LinearLayout>
 
@@ -525,7 +525,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:onClick="metodoClick"
-                    android:text="PMDM"
+                    android:text="@string/pmdm"
                     android:textColor="#FFFFFF" />
             </LinearLayout>
 
@@ -541,7 +541,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:onClick="metodoClick"
-                    android:text="AD"
+                    android:text="@string/ad"
                     android:textAlignment="viewStart"
                     android:textColor="#FFFFFF" />
             </LinearLayout>
@@ -558,7 +558,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:onClick="metodoClick"
-                    android:text="PMDM"
+                    android:text="@string/pmdm"
                     android:textAlignment="center"
                     android:textColor="#FFFFFF"
                     android:textSize="14sp" />
@@ -576,7 +576,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:onClick="metodoClick"
-                    android:text="PSP"
+                    android:text="@string/psp"
                     android:textColor="#FFFFFF" />
 
             </LinearLayout>
@@ -600,7 +600,7 @@
                     android:layout_height="match_parent"
                     android:layout_weight="1"
                     android:onClick="metodoClick"
-                    android:text="DI"
+                    android:text="@string/di"
                     android:textColor="#FFFFFF" />
             </LinearLayout>
 
@@ -616,7 +616,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:onClick="metodoClick"
-                    android:text="PMDM"
+                    android:text="@string/pmdm"
                     android:textColor="#FFFFFF" />
             </LinearLayout>
 
@@ -632,7 +632,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:onClick="metodoClick"
-                    android:text="EIE"
+                    android:text="@string/eie"
                     android:textAlignment="viewStart"
                     android:textColor="#FFFFFF" />
             </LinearLayout>
@@ -649,7 +649,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:onClick="metodoClick"
-                    android:text="PMDM"
+                    android:text="@string/pmdm"
                     android:textAlignment="center"
                     android:textColor="#FFFFFF"
                     android:textSize="14sp" />
@@ -667,7 +667,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:onClick="metodoClick"
-                    android:text="EIE"
+                    android:text="@string/eie"
                     android:textColor="#FFFFFF" />
 
             </LinearLayout>
